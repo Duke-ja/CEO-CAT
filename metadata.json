@@ -1,0 +1,6 @@
+{
+  "name": "CEO Cat: Hammer of Productivity",
+  "description": "A hyper-realistic comedy mobile game where you play as Mr. Whiskers, a serious orange cat CEO. Save your failing company by bonking lazy employees, destroying furniture, and defeating terrible bosses with the 'Productivity Enhancer' hammer!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
